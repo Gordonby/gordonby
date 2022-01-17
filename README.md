@@ -11,4 +11,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gordonby&langs_count=5&theme=tokyonight)]()
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->

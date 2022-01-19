@@ -13,8 +13,10 @@
 #### Where i'm burning my time recently
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 hr 42 mins    ███████████▒░░░░░░░░░░░░░   44.69 % 
-Bash       1 hr 33 mins    ██████████░░░░░░░░░░░░░░░   40.65 % 
-YAML       32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+YAML       2 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.76 % 
+Markdown   1 hr 47 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.29 % 
+Bash       1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.02 % 
+Other      23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+C#         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 <!--END_SECTION:waka-->

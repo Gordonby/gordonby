@@ -13,10 +13,10 @@
 #### Where i'm burning my time recently
 <!--START_SECTION:waka-->
 ```text
-YAML         3 hrs 30 mins   ██████████▒░░░░░░░░░░░░░░   41.05 % 
-Bash         1 hr 59 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.24 % 
-Markdown     1 hr 48 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.13 % 
-JavaScript   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+YAML         2 hrs 59 mins   ██████████████▓░░░░░░░░░░   58.68 % 
+JavaScript   35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Bash         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Other        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Python       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 <!--END_SECTION:waka-->

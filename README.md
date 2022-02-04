@@ -10,7 +10,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gordonby&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gordonby&langs_count=5&theme=tokyonight)]()
 
-#### Where i'm burning my time recently
+#### This weeks most popular languages...
 <!--START_SECTION:waka-->
 ```text
 PowerShell   █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   31.62 % 

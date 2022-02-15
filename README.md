@@ -13,6 +13,8 @@
 #### Where my fingertips have been busy this week... 
 <!--START_SECTION:waka-->
 ```text
+Total: 5 hrs 18 mins
+
 JSON       █████████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░   32.89 % 
 Other      █████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   22.83 % 
 C#         ██████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   16.05 % 

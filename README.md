@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Petrolhead 🚙
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gordonby&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gordonby&langs_count=5&theme=tokyonight)]()
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gordonby&langs_count=5&theme=tokyonight)]()-->
 
 #### Where my fingertips have been busy this week... 
 <!--START_SECTION:waka-->

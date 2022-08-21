@@ -14,11 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bicep      52 mins         ████████████████████░░░░░   80.31 %
-Markdown   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-YAML       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

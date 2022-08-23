@@ -14,7 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bicep        1 hr 49 mins    █████████████████▓░░░░░░░   70.82 %
+JSON         18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+Markdown     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Bash         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->

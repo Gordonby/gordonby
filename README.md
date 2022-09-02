@@ -14,7 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bicep   42 mins         █████████████████████████   99.96 %
+Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->

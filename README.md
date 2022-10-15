@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Petrolhead 🚙
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gordonby&count_private=true&theme=tokyonight&showicons=true)]
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gordonby&count_private=true&theme=tokyonight&showicons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gordonby&hide=css,html&layout=compact&theme=tokyonight)
 
 #### Where my fingertips have been busy **this week**... 

@@ -1,5 +1,3 @@
-![GitHub User's stars](https://img.shields.io/github/stars/gordonby?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&labelColor=343b41)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on cool Microservices and DevOps stuff in Azure
@@ -18,6 +16,7 @@
 [Azure/Aks Baseline Automation](https://github.com/Azure/aks-baseline-automation) | Contributor | ![](https://img.shields.io/github/stars/azure/aks-baseline-automation?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure/aks-baseline-automation?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/issues/azure/aks-baseline-automation?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/issues-pr/azure/aks-baseline-automation?style=flat-square&labelColor=343b41)
 
 #### Stats
+![GitHub User's stars](https://img.shields.io/github/stars/gordonby?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&labelColor=343b41)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gordonby&count_private=true&theme=tokyonight&showicons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gordonby&hide=css,html&layout=compact&theme=tokyonight)

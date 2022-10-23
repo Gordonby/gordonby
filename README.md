@@ -18,6 +18,8 @@
 #### Stats
 ![GitHub User's stars](https://img.shields.io/github/stars/gordonby?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&labelColor=343b41)
 
+[![GitHub Advanced Security](github-advanced-security.png)](https://www.credly.com/users/gordon-byers/badges?sort=-state_updated_at&page=1)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gordonby&count_private=true&theme=tokyonight&showicons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gordonby&hide=css,html&layout=compact&theme=tokyonight)
 

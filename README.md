@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Petrolhead 🚙
 
-### Open source projects I'm contribute to
+### Open source projects I contribute to
 
 🎁 Project | 🏢 Role | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests
 ----------- | -------- | --------- | --------- | --------- | ---------------

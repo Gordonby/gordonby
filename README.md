@@ -17,7 +17,7 @@
 
 ### GitHub Stats
 
-![GitHub User's stars](https://img.shields.io/github/stars/gordonby?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&labelColor=343b41)
+![GitHub User's stars](https://img.shields.io/github/stars/gordonby?affiliations=OWNER%2CCOLLABORATOR&label=Owner%20%2B%20Collaborator%20Stars&logo=GitHub&style=for-the-badge&labelColor=343b41)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gordonby&count_private=true&theme=tokyonight&showicons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gordonby&hide=css,html&layout=compact&theme=tokyonight)

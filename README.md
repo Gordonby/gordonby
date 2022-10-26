@@ -5,7 +5,7 @@
 - 💬 Ask me about Azure developer practices
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gordonbyers/)
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Petrolhead 🚙
+- ⚡ Fun fact: Petrolhead 🏁🏎️🚗🚙 
 
 ### Open source projects I contribute to
 

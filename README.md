@@ -26,10 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bicep      1 hr 15 mins    █████████████▓░░░░░░░░░░░   54.64 %
-Markdown   44 mins         ████████░░░░░░░░░░░░░░░░░   32.01 %
-Docker     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-JSON       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

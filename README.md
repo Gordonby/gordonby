@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bicep        4 hrs 31 mins   ██████████████▓░░░░░░░░░░   58.35 %
-JavaScript   1 hr 38 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
-Markdown     1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Bicep        5 hrs 57 mins   ████████████████░░░░░░░░░   63.81 %
+JavaScript   1 hr 39 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+Markdown     1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->

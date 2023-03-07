@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Azure Architectures
 - 💕 Passionate about Innersourcing, creating IaC communities and helping infra teams hit technical excellance
 - 💬 Ask me about Azure 🌥️, Kubernetes ⚓, DevOps
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gordonbyers/)

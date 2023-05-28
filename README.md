@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💕 Passionate about Innersourcing, creating IaC communities and helping infra teams hit technical excellance
+- 💕 Passionate about Innersourcing, creating IaC communities and helping cloud infra teams hit technical excellance
 - 💬 Ask me about Azure 🌥️, Kubernetes ⚓ and DevOps ⚙️
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gordonbyers/)
 - 😄 Pronouns: He/Him 

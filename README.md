@@ -25,7 +25,7 @@
 #### Where my fingertips have been busy **this week**... 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Bicep        1 hr 40 mins    ████████████████▒░░░░░░░░   64.99 %
 Markdown     30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89 %
 JavaScript   21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %

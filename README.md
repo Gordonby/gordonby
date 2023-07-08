@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bicep   1 hr 5 mins     █████████████████████████   100.00 %
+Bicep   48 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

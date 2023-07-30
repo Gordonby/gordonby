@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bicep      34 mins         █████████████████████░░░░   84.62 %
-Markdown   6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

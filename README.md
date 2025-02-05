@@ -35,4 +35,6 @@ No activity tracked
 
 [![GitHub Advanced Security](github-advanced-security.png)](https://www.credly.com/users/gordon-byers/badges?sort=-state_updated_at&page=1)
 [![GitHub Actions](github-actions.png)](https://www.credly.com/users/gordon-byers/badges?sort=-state_updated_at&page=1)
+![GitHub Copilot](https://github.com/user-attachments/assets/6c9674cc-1ff5-48f8-bf9f-379f76bba5d7)
+
 
